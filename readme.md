@@ -10,12 +10,4 @@ dev rev3
 mas rev4
 dev rev4
 
-<<<<<<< HEAD
-dev rev5
-dev rev6
-
 mas rev5
-
-=======
->>>>>>> parent of 53d6607 (mas rev5)
-dev 5
