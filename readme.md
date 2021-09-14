@@ -6,4 +6,4 @@ dev rev1 <br>
 mas rev2
 dev rev2 <br>
 
-mas rev3
+mas rev3 - reset
